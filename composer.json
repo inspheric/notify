@@ -1,0 +1,11 @@
+{
+    "name": "inspheric/notify",
+    "require": {
+        "inspheric/support": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Inspheric\\Notify\\": "src/"
+        }
+    }
+}
